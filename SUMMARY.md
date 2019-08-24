@@ -14,4 +14,5 @@
 * [Нормальное распределение](osnovy-statistiki-chast-1/normalnoe-raspredelenie.md)
 * [Центральная предельная теорема](osnovy-statistiki-chast-1/centralnaya-predelnaya-teorema.md)
 * [Доверительные интервалы для среднего](osnovy-statistiki-chast-1/doveritelnye-intervaly-dlya-srednego.md)
+* [Идея статистического вывода, p-уровень значимости](osnovy-statistiki-chast-1/ideya-statisticheskogo-vyvoda-p-uroven-znachimosti.md)
 
