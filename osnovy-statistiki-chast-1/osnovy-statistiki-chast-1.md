@@ -16,3 +16,5 @@
 
 \*\*\*\*[**Нормальное распределение**](normalnoe-raspredelenie.md)\*\*\*\*
 
+\*\*\*\*[**Центральная предельная теорема**](centralnaya-predelnaya-teorema.md)\*\*\*\*
+

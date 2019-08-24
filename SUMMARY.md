@@ -13,4 +13,5 @@
 * [Квартили распределения и график box-plot](osnovy-statistiki-chast-1/kvartili-raspredeleniya-i-grafik-box-plot.md)
 * [Нормальное распределение](osnovy-statistiki-chast-1/normalnoe-raspredelenie.md)
 * [Центральная предельная теорема](osnovy-statistiki-chast-1/centralnaya-predelnaya-teorema.md)
+* [Доверительные интервалы для среднего](osnovy-statistiki-chast-1/doveritelnye-intervaly-dlya-srednego.md)
 
