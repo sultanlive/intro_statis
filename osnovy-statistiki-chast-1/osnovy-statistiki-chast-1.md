@@ -18,3 +18,9 @@
 
 \*\*\*\*[**Центральная предельная теорема**](centralnaya-predelnaya-teorema.md)\*\*\*\*
 
+\*\*\*\*[**Доверительные интервалы для среднего**](doveritelnye-intervaly-dlya-srednego.md)\*\*\*\*
+
+\*\*\*\*[**Идея статистического вывода, p-уровень значимости \(p value\)**](ideya-statisticheskogo-vyvoda-p-uroven-znachimosti.md)\*\*\*\*
+
+\*\*\*\*
+
